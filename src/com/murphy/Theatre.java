@@ -5,7 +5,7 @@ import java.util.*;
 public class Theatre {
 
     private final String theatreName;
-    private List<Seat> seats = new ArrayList<>();
+    public List<Seat> seats = new ArrayList<>();
 
     public Theatre(String theatreName, int numRows, int seatsPerRow) {
         this.theatreName = theatreName;
@@ -24,9 +24,9 @@ public class Theatre {
     }
 
     public boolean reserveSeat(String seatNumber) {
-        Seat requestedSeat = new Seat(seatNumber);
+        Seat requestedSeat = new Seat(seatNumber, 0);
         int foundSeat = Collections.binarySearch(seats, requestedSeat, null);
-        if(foundSeat > 0) {
+        if(foundSeat >= 0) {
             return seats.get(foundSeat).reserve();
         } else {
             System.out.println("There is no seat " + seatNumber);
@@ -54,7 +54,7 @@ public class Theatre {
         }
     }
 
-    private class Seat implements Comparable<Seat>{
+    public class Seat implements Comparable<Seat>{
         private final String seatNumber;
         private boolean reserved = false;
 
