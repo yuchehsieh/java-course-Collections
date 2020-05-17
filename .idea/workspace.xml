@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="326f8d5d-8c91-4aa9-b3b4-5d67241797b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/murphy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/murphy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/murphy/Theatre$Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/murphy/Theatre$Seat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/murphy/Theatre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/murphy/Theatre.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/murphy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/murphy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/murphy/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/murphy/Theatre.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,22 +23,18 @@
   </component>
   <component name="ProjectId" id="1U5v40TJZg0n8YIdTum6HU2cxpm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/murphy" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -73,7 +65,7 @@
       <updated>1574659075732</updated>
       <workItem from="1574659077813" duration="6787000" />
       <workItem from="1575856512801" duration="1546000" />
-      <workItem from="1578385415983" duration="1644000" />
+      <workItem from="1578385415983" duration="2258000" />
     </task>
     <servers />
   </component>
@@ -85,12 +77,33 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1442" height="258" key="GridCell.Tab.0.bottom" timestamp="1589681206415">
+      <screen x="0" y="23" width="1920" height="999" />
+    </state>
+    <state width="1442" height="258" key="GridCell.Tab.0.bottom/762.1103.1440.877/0.23.1920.999/1920.-817.1080.1897@0.23.1920.999" timestamp="1589681206415" />
+    <state width="1442" height="258" key="GridCell.Tab.0.center" timestamp="1589681206413">
+      <screen x="0" y="23" width="1920" height="999" />
+    </state>
+    <state width="1442" height="258" key="GridCell.Tab.0.center/762.1103.1440.877/0.23.1920.999/1920.-817.1080.1897@0.23.1920.999" timestamp="1589681206413" />
+    <state width="1442" height="258" key="GridCell.Tab.0.left" timestamp="1589681206413">
+      <screen x="0" y="23" width="1920" height="999" />
+    </state>
+    <state width="1442" height="258" key="GridCell.Tab.0.left/762.1103.1440.877/0.23.1920.999/1920.-817.1080.1897@0.23.1920.999" timestamp="1589681206413" />
+    <state width="1442" height="258" key="GridCell.Tab.0.right" timestamp="1589681206414">
+      <screen x="0" y="23" width="1920" height="999" />
+    </state>
+    <state width="1442" height="258" key="GridCell.Tab.0.right/762.1103.1440.877/0.23.1920.999/1920.-817.1080.1897@0.23.1920.999" timestamp="1589681206414" />
+    <state x="511" y="161" key="SettingsEditor" timestamp="1589680920695">
+      <screen x="0" y="23" width="1920" height="999" />
+    </state>
+    <state x="511" y="161" key="SettingsEditor/762.1103.1440.877/0.23.1920.999/1920.-817.1080.1897@0.23.1920.999" timestamp="1589680920695" />
   </component>
 </project>
